@@ -8,7 +8,9 @@ const editorPageSyle = {
   display: "flex",
   flexDirection: "column",
   justifyContent: "space-around",
-  alignItems: "center"
+  alignItems: "center",
+
+  background: "linear-gradient(#e4e0ba, #f0ab7a)"
 };
 
 export default class EditorPage extends Component {
